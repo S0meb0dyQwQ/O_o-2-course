@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\",
+  "WorkspaceRootPath": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|solutionrelative:FlatsInspector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|solutionrelative:FlatsInspector\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|solutionrelative:FlatsInspector\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Catalog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|solutionrelative:FlatsInspector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|solutionrelative:FlatsInspector\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Catalog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{26980111-9CF9-40FA-824B-82E54B8C5161}|FlatsInspector\\FlatsInspector.vcxproj|solutionrelative:FlatsInspector\\Catalog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -47,9 +47,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Catalog.txt",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Catalog.txt",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Catalog.txt",
               "RelativeDocumentMoniker": "FlatsInspector\\Catalog.txt",
-              "ToolTip": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Catalog.txt",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Catalog.txt",
               "RelativeToolTip": "FlatsInspector\\Catalog.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -57,11 +57,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Functions.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Functions.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Functions.cpp",
               "RelativeDocumentMoniker": "FlatsInspector\\Functions.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Functions.cpp",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Functions.cpp",
               "RelativeToolTip": "FlatsInspector\\Functions.cpp",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAwHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -69,23 +69,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Base.h",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Base.h",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Base.h",
               "RelativeDocumentMoniker": "FlatsInspector\\Base.h",
-              "ToolTip": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\Base.h",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\Base.h",
               "RelativeToolTip": "FlatsInspector\\Base.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-11T15:54:30.894Z"
+              "WhenOpened": "2025-10-11T15:54:30.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\main.cpp",
               "RelativeDocumentMoniker": "FlatsInspector\\main.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\newday_newlabs\\FlatsInspector\\FlatsInspector\\main.cpp",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\FlatsInspector\\FlatsInspector\\main.cpp",
               "RelativeToolTip": "FlatsInspector\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

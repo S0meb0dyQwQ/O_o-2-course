@@ -1,4 +1,21 @@
 #include "Base.h"
+Complex Complex:: operator = (const Complex& a)
+{
+	if (this != &a)
+	{
+		this->im = a.im;
+		this->re = a.re;
+	}
+	return *this;
+}
+Complex Complex:: operator = (Complex&& a) 
+{
+	this->im = a.im;
+	this->re = a.re;
+	a.im = 0;
+	a.re = 0;
+	return *this;
+}
 Complex Complex:: operator + (const Complex& a)
 {
 	return Complex(this->re + a.re, this->im + a.im);
@@ -126,12 +143,21 @@ std::ostream& operator <<(std::ostream& out, const Complex& a)
 	else
 		return out << a.re;
 }
+std::istream& operator >>(std::istream& in, Complex& a)
+{
+	return in >> a.re >> a.im;
+}
 Complex:: Complex()
 {
-	std::cout << "input real part\n";
-	std::cin >> this->re;
-	std::cout << "input imaginary part\n";
-	std::cin >> this->im;
+	this->re = 0.0;
+	this->im = 0.0;
+}
+Complex:: Complex(Complex&& other) 
+{
+	this->re = other.re;
+	this->im = other.im;
+	other.im = 0;
+	other.re = 0;
 }
 Complex::Complex(double a, double b)
 {

@@ -224,7 +224,7 @@ public:
 	}
 	void Print(TInfo& a)
 	{
-		a = (((a + a++) * (a - --a)) % 10 + (a % 3) * 4 - (a / 2)) + ++a;
+		a = a + 27;
 		std::cout << a;
 	}
 

@@ -5,9 +5,11 @@
 class Complex
 {
 private:
-	double im{ 0.0 };
-	double re{ 0.0 };
+	double im;
+	double re;
 public:
+	Complex operator = (const Complex& a);
+	Complex operator = (Complex&& a);
 	Complex operator + (const Complex& a);
 	Complex operator - (const Complex& a);
 	Complex operator * (const Complex& a);
@@ -34,7 +36,9 @@ public:
 	double argument()const;
 	Complex sqrtcomplex()const;
 	friend std::ostream& operator <<(std::ostream& out, const Complex& a);
+	friend std::istream& operator >>(std::istream& in, Complex& a);
 	Complex();
+	Complex(Complex&&);
 	Complex(double a, double b);
 	Complex(const Complex& c);
 	~Complex();

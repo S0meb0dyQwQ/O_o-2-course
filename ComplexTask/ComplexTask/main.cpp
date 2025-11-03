@@ -3,6 +3,7 @@ int main()
 {
 	try {
 		Complex a;
+		std::cin >> a;
 		Complex b(4, 9);
 		Complex d(a);
 		std::cout << d << '\n';

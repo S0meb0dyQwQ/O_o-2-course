@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\",
+  "WorkspaceRootPath": "C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|solutionrelative:Deque_ueueee\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|solutionrelative:Deque_ueueee\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|solutionrelative:Deque_ueueee\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDFBAE7E-893D-4883-8764-5488841BD37F}|Deque_ueueee\\Deque_ueueee.vcxproj|solutionrelative:Deque_ueueee\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,39 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Base.h",
-              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\Base.h",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\Base.h",
               "RelativeDocumentMoniker": "Deque_ueueee\\Base.h",
-              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\Base.h",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\Base.h",
               "RelativeToolTip": "Deque_ueueee\\Base.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAALgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-21T09:12:40.236Z"
+              "WhenOpened": "2025-10-21T09:12:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\Source.cpp",
+              "RelativeDocumentMoniker": "Deque_ueueee\\Source.cpp",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\Source.cpp",
+              "RelativeToolTip": "Deque_ueueee\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:12:28.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\Source.cpp",
-              "RelativeDocumentMoniker": "Deque_ueueee\\Source.cpp",
-              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\Source.cpp",
-              "RelativeToolTip": "Deque_ueueee\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-21T09:12:28.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\main.cpp",
               "RelativeDocumentMoniker": "Deque_ueueee\\main.cpp",
-              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Deque_ueueee\\Deque_ueueee\\main.cpp",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Deque_ueueee\\Deque_ueueee\\main.cpp",
               "RelativeToolTip": "Deque_ueueee\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\",
+  "WorkspaceRootPath": "C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|solutionrelative:ComplexTask\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|solutionrelative:ComplexTask\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{10BE55EF-0484-4138-8C8D-ED95806D988D}|ComplexTask\\ComplexTask.vcxproj|solutionrelative:ComplexTask\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,35 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Complex.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\Complex.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\Complex.cpp",
               "RelativeDocumentMoniker": "ComplexTask\\Complex.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\Complex.cpp",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\Complex.cpp",
               "RelativeToolTip": "ComplexTask\\Complex.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-19T09:15:58.167Z"
+              "WhenOpened": "2025-09-19T09:15:58.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Base.h",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\Base.h",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\Base.h",
               "RelativeDocumentMoniker": "ComplexTask\\Base.h",
-              "ToolTip": "C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\Base.h",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\Base.h",
               "RelativeToolTip": "ComplexTask\\Base.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-19T10:21:37.519Z"
+              "WhenOpened": "2025-09-19T10:21:37.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\main.cpp",
               "RelativeDocumentMoniker": "ComplexTask\\main.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\newday_newlabs\\ComplexTask\\ComplexTask\\main.cpp",
+              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\ComplexTask\\ComplexTask\\main.cpp",
               "RelativeToolTip": "ComplexTask\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-19T09:15:18.428Z",
               "EditorCaption": ""
