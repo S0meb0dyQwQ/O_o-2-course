@@ -1,6 +1,18 @@
 #include "Base.h"
 #include "Linear.h"
 #include "quadratic.h"
+void CheckOutputFile(std::ofstream& fout)
+{
+
+	if (!fout.good())
+	{
+		throw  std::ios_base::failure("file doesn't exist\n");
+	}
+	if (!fout)
+	{
+		throw  std::ios_base::failure("output file error\n");
+	}
+}
 int CompareUpSenior(const void* a, const void* b)
 {
 	return (*(Equation*)a).GetSenior() > (*(Equation*)b).GetSenior();
@@ -12,6 +24,7 @@ int CompareBDown(const void* a, const void* b)
 void MakeEquationFileInfo(Equation** array)
 {
 	std::ofstream fout("Equations.txt");
+	CheckOutputFile(fout);
 	for (int i{}; i < 5; ++i)
 	{
 		array[i]->Print(fout);

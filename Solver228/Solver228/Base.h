@@ -12,6 +12,7 @@ public:
 	virtual double GetSenior() = 0;
 };
 void MakeEquationFileInfo(Equation**);
+void CheckOutputFile(std::ofstream&);
 void FindWhoHaveNoRoots(Equation**);
 int FindWithEndlessRoots(Equation**);
 void FindSadSmile(Equation**);

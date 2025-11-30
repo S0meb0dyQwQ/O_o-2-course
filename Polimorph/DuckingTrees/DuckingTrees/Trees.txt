@@ -1,0 +1,5 @@
+Forest;Elka;5;coniferous;10
+Fruit;Grusha;1;deciduous;20;1 
+Fruit;Grusha;5;deciduous;10;1
+Forest;Klen;56;deciduous;15
+Forest;Dyb;100;deciduous;25

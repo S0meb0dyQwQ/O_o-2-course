@@ -31,5 +31,9 @@ int main()
 	{
 		std::cout << e.what();
 	}
+	catch (std::ios_base::failure& e)
+	{
+		std::cout << e.what();
+	}
 	return 0;
 }
