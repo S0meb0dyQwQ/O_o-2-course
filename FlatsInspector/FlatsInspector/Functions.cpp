@@ -86,43 +86,8 @@ List::List()
 {
 	this->leader = nullptr;
 }
-List::~List() 
-{
-	Item* current;
-	Item* next;
-	current = this->leader;
-	while (current != nullptr)
-	{
-		next = current->next;
-		delete current;
-		current = next;
-	}
-	this->leader = nullptr;
-}
-List::List(const List& other) 
-{
-	Item* cursor;
-	Item* new_item;
-	Item* new_list;
-	new_list = nullptr;
-	cursor = other.leader;
-	while (cursor != nullptr)
-	{
-		new_item = new Item;
-		new_item->info = cursor->info;
-		new_item->next = nullptr;
-		if (new_list == nullptr)
-		{
-			this->leader = new_item;
-		}
-		else
-		{
-			new_list->next = new_item;
-		}
-		new_list = new_item;
-		cursor = cursor->next;
-	}
-}
+List::~List() {Erase();}
+List::List(const List& other) {Clone(other);}
 void List::MakeCatalog(std::ifstream& fin)
 {
 	int32_t size{ CountNum(fin) };
@@ -163,6 +128,43 @@ void List:: InputCatalog()
 		std::cin >> choose;
 	}
 	system("cls");
+}
+void List::Erase()
+{
+	Item* current;
+	Item* next;
+	current = this->leader;
+	while (current != nullptr)
+	{
+		next = current->next;
+		delete current;
+		current = next;
+	}
+	this->leader= nullptr;
+}
+void List::Clone(const List& L)
+{
+	Item* cursor;
+	Item* new_item;
+	Item * new_list;
+	new_list = nullptr;
+	cursor = L.leader;
+	while (cursor != nullptr)
+	{
+		new_item = new Item;
+		new_item->info = cursor->info;
+		new_item->next = nullptr;
+		if (new_list == nullptr)
+		{
+			this->leader = new_item;
+		}
+		else
+		{
+			new_list->next = new_item;
+		}
+		new_list = new_item;
+		cursor = cursor->next;
+	}
 }
 void List:: Insert(Flat house)
 {

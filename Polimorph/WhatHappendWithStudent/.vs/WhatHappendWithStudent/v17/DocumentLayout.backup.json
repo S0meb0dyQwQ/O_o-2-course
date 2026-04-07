@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|solutionrelative:WhatHappendWithStudent\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\FirstSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|solutionrelative:WhatHappendWithStudent\\FirstSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|solutionrelative:WhatHappendWithStudent\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|solutionrelative:WhatHappendWithStudent\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E516E9D7-4877-4F4F-9DBD-6FD20C2F9B57}|WhatHappendWithStudent\\WhatHappendWithStudent.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -74,8 +74,7 @@
               "RelativeToolTip": "WhatHappendWithStudent\\Student.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T17:05:08.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T17:05:08.238Z"
             },
             {
               "$type": "Document",
@@ -87,12 +86,11 @@
               "RelativeToolTip": "WhatHappendWithStudent\\SecondSession.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T18:18:04.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T18:18:04.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FirstSession.h",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\FirstSession.h",
               "RelativeDocumentMoniker": "WhatHappendWithStudent\\FirstSession.h",
@@ -105,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.h",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\Student.h",
               "RelativeDocumentMoniker": "WhatHappendWithStudent\\Student.h",
@@ -113,18 +111,17 @@
               "RelativeToolTip": "WhatHappendWithStudent\\Student.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T17:04:07.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T17:04:07.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\main.cpp",
               "RelativeDocumentMoniker": "WhatHappendWithStudent\\main.cpp",
               "ToolTip": "C:\\Users\\Comp\\source\\repos\\Polimorph\\WhatHappendWithStudent\\WhatHappendWithStudent\\main.cpp",
               "RelativeToolTip": "WhatHappendWithStudent\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-29T17:03:38.519Z",
               "EditorCaption": ""

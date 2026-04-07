@@ -1,37 +1,27 @@
 #include "Base.h"
 String::String() 
 {
-	this->length = 300;
-	this->string = new char[length];
+	char copy[300];
 	std::cout << "input words\n";
-	std::cin.getline(string, 300);
-	this->length = strlen(string);
-	/*strcpy(this->string, "");
-	this->length = 1;*/
+	std::cin.getline(copy, 300);
+	this->length = strlen(copy);
+	strcpy(this->string, copy);
 }
 String::String(char* str, size_t n)
 {
 	this->length = n;
-	this->string = new char[n + 1] {'\0'};
+	this->string = new char[n + 1];
 	strcpy(this->string, str);
 }
 String::String(const String& rhs)
 {
 	this->length = rhs.length;
-	this->string = new char[length];
 	strcpy(this->string, rhs.string);
-}
-String::String(String&& rhs)
-{
-	this->length = rhs.length;
-	rhs.length = 0;
-	string = rhs.string;
-	rhs.string = nullptr;
 }
 String::~String()
 {
-	delete[]this->string;
 	string = nullptr;
+	delete[]this->string;
 }
 String String:: operator + (const String& rhs)const
 {
@@ -47,26 +37,8 @@ bool String::operator<(const String& rhs) const
 {
 	return std::strcmp(this->string, rhs.string) < 0;
 }
-String& String:: operator = (const String& other)
-{
-	if (this != &other)
-	{
-	length = other.length;
-	string = nullptr;
-	string = new char[length + 1];
-	strcpy(string, other.string);
-	}
-	return *this;
-}
-String& String:: operator = (String&& other) 
-{
-	length = other.length;
-	delete[]string;
-	string = other.string;
-	other.string = nullptr;
-	other.length = 0;
-	return *this;
-}
+
+
 bool String::operator>(const String& rhs) const
 {
 	return rhs.string>this->string;
@@ -78,7 +50,7 @@ bool String::operator!=(const String& rhs) const
 }
 char& String:: operator[](size_t index)const
 {
-	if (index > length || index < 0)
+	if (index > length)
 	{
 		throw std::out_of_range("can't find this symbol");
 	}
@@ -105,6 +77,7 @@ size_t String::find(const String& rhs)const
 	{
 		return -1;
 	}
+	else
 	return this->length - strlen(strstr(this->string, rhs.string));
 }
 size_t String:: find_first_of(const String& rhs)const 
@@ -113,6 +86,7 @@ size_t String:: find_first_of(const String& rhs)const
 	{
 		return -1;
 	}
+	else
 	return this->length - strlen(strpbrk(this->string, rhs.string));
 }
 size_t String:: find_last_of(const String& rhs)const
@@ -128,16 +102,17 @@ size_t String:: find_last_of(const String& rhs)const
 }
 String String:: substr(size_t pos, size_t count)const
 {
-	if (pos >= length || pos < 0) 
+	if (pos >= length) 
 	{
 		throw std::out_of_range("position is too big");
 	}
-	if (length - pos < count)
+	else if (length - pos < count)
 	{
 		count = length - pos;
 	}
-	char* copy = new char[count + 1] {'\0'};
+	char* copy = new char[count + 1];
 	strncpy(copy, (this->string) + pos, count);
+	copy[count] = '\0';
 	String result(copy, count + 1);
 	delete[]copy;
 	return result;
@@ -177,7 +152,7 @@ void String::replace(size_t pos, size_t count, const String& rhs)
 	{
 		throw std::out_of_range("position is too big");
 	}
-	if (length - pos < count)
+	else if (length - pos < count)
 	{
 		count = length - pos;
 	}
@@ -201,9 +176,8 @@ String& String:: erase(size_t pos)
 }
 void String:: push_back(char ch)
 {
-	String copy(this->string,length + 1);
-	copy.string[length] = ch;
-	*this = copy;
+	(*this)[length++] = ch;
+	(*this)[length] = '\0';
 }
 void String::pop_back()
 {
@@ -236,33 +210,6 @@ String& String:: append(const String& rhs)
 char* String::c_str()
 {
 	return this->string;
-}
-bool String::isNumber() const
-{
-	for (size_t i{}; i < length; ++i)
-	{
-		if (!isdigit(string[i]) && string[i] != '.')
-		{
-			return false;
-		}
-	}
-	return true;
-}
-int String::stoi() 
-{
-	return this->stod();
-}
-double String::stod()
-{
-	if (!isNumber())
-	{
-		throw std::invalid_argument("this is not a number");
-	}
-	return atof(string);
-}
-std::istream& getline(std::istream& cin, String& a)
-{
-	return cin.getline(a.string, 300);
 }
 size_t String::count(char ch) const
 {

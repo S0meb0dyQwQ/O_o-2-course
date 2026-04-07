@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\",
+  "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\Solver228\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Equations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Equations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Equations.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Equations.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Equations.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Linear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Linear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Linear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Linear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Equations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Equations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Quadratic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Quadratic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Quadratic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\quadratic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Linear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Linear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Linear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Linear.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\quadratic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4635FAD6-B4F4-4A36-AE28-2553C5D0BA76}|Solver228\\Solver228.vcxproj|solutionrelative:Solver228\\quadratic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -42,27 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Quadratic.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Quadratic.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Quadratic.cpp",
               "RelativeDocumentMoniker": "Solver228\\Quadratic.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Quadratic.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Quadratic.cpp",
               "RelativeToolTip": "Solver228\\Quadratic.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T10:44:21.93Z"
+              "WhenOpened": "2025-11-29T10:44:21.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Linear.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Linear.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Linear.cpp",
               "RelativeDocumentMoniker": "Solver228\\Linear.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Linear.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Linear.cpp",
               "RelativeToolTip": "Solver228\\Linear.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -71,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Equations.txt",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Equations.txt",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Equations.txt",
               "RelativeDocumentMoniker": "Solver228\\Equations.txt",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Equations.txt",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Equations.txt",
               "RelativeToolTip": "Solver228\\Equations.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -86,23 +87,24 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "quadratic.h",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\quadratic.h",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\quadratic.h",
               "RelativeDocumentMoniker": "Solver228\\quadratic.h",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\quadratic.h",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\quadratic.h",
               "RelativeToolTip": "Solver228\\quadratic.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-18T12:08:16.975Z"
+              "WhenOpened": "2025-11-18T12:08:16.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Equations.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Equations.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Equations.cpp",
               "RelativeDocumentMoniker": "Solver228\\Equations.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Equations.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Equations.cpp",
               "RelativeToolTip": "Solver228\\Equations.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-18T11:38:23.232Z",
               "EditorCaption": ""
@@ -111,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Linear.h",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Linear.h",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Linear.h",
               "RelativeDocumentMoniker": "Solver228\\Linear.h",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Linear.h",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Linear.h",
               "RelativeToolTip": "Solver228\\Linear.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -122,26 +124,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Base.h",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Base.h",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Base.h",
               "RelativeDocumentMoniker": "Solver228\\Base.h",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\Base.h",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\Base.h",
               "RelativeToolTip": "Solver228\\Base.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-18T11:38:03.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\main.cpp",
               "RelativeDocumentMoniker": "Solver228\\main.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\Solver228\\Solver228\\main.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Solver228\\Solver228\\main.cpp",
               "RelativeToolTip": "Solver228\\main.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-18T11:30:41.204Z",
               "EditorCaption": ""

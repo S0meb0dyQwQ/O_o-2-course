@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51896394-459D-44B4-949B-EBA260D570D5}|Vector_matrix\\Vector_matrix.vcxproj|C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51896394-459D-44B4-949B-EBA260D570D5}|Vector_matrix\\Vector_matrix.vcxproj|solutionrelative:Vector_matrix\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51896394-459D-44B4-949B-EBA260D570D5}|Vector_matrix\\Vector_matrix.vcxproj|C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51896394-459D-44B4-949B-EBA260D570D5}|Vector_matrix\\Vector_matrix.vcxproj|solutionrelative:Vector_matrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51896394-459D-44B4-949B-EBA260D570D5}|Vector_matrix\\Vector_matrix.vcxproj|C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51896394-459D-44B4-949B-EBA260D570D5}|Vector_matrix\\Vector_matrix.vcxproj|solutionrelative:Vector_matrix\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51896394-459D-44B4-949B-EBA260D570D5}|Vector_matrix\\Vector_matrix.vcxproj|C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Shop.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{51896394-459D-44B4-949B-EBA260D570D5}|Vector_matrix\\Vector_matrix.vcxproj|solutionrelative:Vector_matrix\\Shop.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.txt",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Shop.txt",
+              "RelativeDocumentMoniker": "Vector_matrix\\Shop.txt",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Shop.txt",
+              "RelativeToolTip": "Vector_matrix\\Shop.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-08T13:15:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Base.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Base.cpp",
+              "RelativeDocumentMoniker": "Vector_matrix\\Base.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Base.cpp",
+              "RelativeToolTip": "Vector_matrix\\Base.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T11:32:57.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Base.h",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Base.h",
+              "RelativeDocumentMoniker": "Vector_matrix\\Base.h",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\Base.h*",
+              "RelativeToolTip": "Vector_matrix\\Base.h*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAANkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T11:32:45.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\main.cpp",
+              "RelativeDocumentMoniker": "Vector_matrix\\main.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Vector_matrix\\Vector_matrix\\main.cpp",
+              "RelativeToolTip": "Vector_matrix\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T11:32:32.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

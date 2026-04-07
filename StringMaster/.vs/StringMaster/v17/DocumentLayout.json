@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Comp\\Git\\new_course\\StringMaster\\",
+  "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\StringMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|solutionrelative:StringMaster\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|solutionrelative:StringMaster\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6BA25FF8-CF6D-4E54-AA66-2C547E277FBF}|StringMaster\\StringMaster.vcxproj|solutionrelative:StringMaster\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,46 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Base.h",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\Base.h",
-              "RelativeDocumentMoniker": "StringMaster\\Base.h",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\Base.h",
-              "RelativeToolTip": "StringMaster\\Base.h",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-22T15:54:07.488Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "String.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\String.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\String.cpp",
               "RelativeDocumentMoniker": "StringMaster\\String.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\String.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\String.cpp",
               "RelativeToolTip": "StringMaster\\String.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-22T15:54:21.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Base.h",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\Base.h",
+              "RelativeDocumentMoniker": "StringMaster\\Base.h",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\Base.h",
+              "RelativeToolTip": "StringMaster\\Base.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T15:54:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\main.cpp",
               "RelativeDocumentMoniker": "StringMaster\\main.cpp",
-              "ToolTip": "C:\\Users\\Comp\\Git\\new_course\\StringMaster\\StringMaster\\main.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\StringMaster\\StringMaster\\main.cpp",
               "RelativeToolTip": "StringMaster\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-22T15:53:49.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T15:53:49.994Z"
             }
           ]
         }

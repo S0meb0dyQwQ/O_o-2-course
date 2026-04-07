@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|solutionrelative:DuckingTrees\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|solutionrelative:DuckingTrees\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\ForestTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|solutionrelative:DuckingTrees\\ForestTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|solutionrelative:DuckingTrees\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D770E92A-26A9-4B96-A566-F1826003011F}|DuckingTrees\\DuckingTrees.vcxproj|C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "DuckingTrees\\Trees.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-29T20:36:29.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:36:29.061Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "DuckingTrees\\Container.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T20:24:14.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:24:14.859Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "DuckingTrees\\Container.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T20:23:28.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:23:28.392Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "DuckingTrees\\FruitTree.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T20:22:35.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:22:35.963Z"
             },
             {
               "$type": "Document",
@@ -114,12 +110,11 @@
               "RelativeToolTip": "DuckingTrees\\FruitTree.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T20:22:55.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:22:55.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ForestTree.cpp",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\ForestTree.cpp",
               "RelativeDocumentMoniker": "DuckingTrees\\ForestTree.cpp",
@@ -127,12 +122,11 @@
               "RelativeToolTip": "DuckingTrees\\ForestTree.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T20:23:56.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:23:56.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ForestTree.h",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\ForestTree.h",
               "RelativeDocumentMoniker": "DuckingTrees\\ForestTree.h",
@@ -140,12 +134,11 @@
               "RelativeToolTip": "DuckingTrees\\ForestTree.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T20:22:00.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:22:00.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tree.cpp",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\Tree.cpp",
               "RelativeDocumentMoniker": "DuckingTrees\\Tree.cpp",
@@ -153,12 +146,11 @@
               "RelativeToolTip": "DuckingTrees\\Tree.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T20:23:39.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T20:23:39.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Tree.h",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\Tree.h",
               "RelativeDocumentMoniker": "DuckingTrees\\Tree.h",
@@ -171,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Polimorph\\DuckingTrees\\DuckingTrees\\main.cpp",
               "RelativeDocumentMoniker": "DuckingTrees\\main.cpp",

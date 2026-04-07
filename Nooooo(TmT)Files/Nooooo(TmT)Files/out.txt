@@ -1,0 +1,14 @@
+remember your old array?
+3.14056	7.85	3.689	9	34.56896	5.01	
+ok, here is quick sort
+34.56896	9	7.85	5.01	3.689	3.14056	
+and here is insertion sort
+34.56896	9	7.85	5.01	3.689	3.14056	
+now it is selection sort
+34.56896	9	7.85	5.01	3.689	3.14056	
+Hey! here is merge sort
+34.56896	9	7.85	5.01	3.689	3.14056	
+old good bubble sort (modefied)
+34.56896	9	7.85	5.01	3.689	3.14056	
+and finally... here is qsort(he works different)
+34.56896	3.14056	3.689	7.85	5.01	9	

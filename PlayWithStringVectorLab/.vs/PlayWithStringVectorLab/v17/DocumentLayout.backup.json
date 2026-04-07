@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\PlayWithStringVectorLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28DBB4-29A2-4EF8-8054-F10F38F66EEE}|PlayWithStringVectorLab\\PlayWithStringVectorLab.vcxproj|C:\\Users\\Comp\\source\\repos\\PlayWithStringVectorLab\\PlayWithStringVectorLab\\Library.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D28DBB4-29A2-4EF8-8054-F10F38F66EEE}|PlayWithStringVectorLab\\PlayWithStringVectorLab.vcxproj|solutionrelative:PlayWithStringVectorLab\\Library.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28DBB4-29A2-4EF8-8054-F10F38F66EEE}|PlayWithStringVectorLab\\PlayWithStringVectorLab.vcxproj|C:\\Users\\Comp\\source\\repos\\PlayWithStringVectorLab\\PlayWithStringVectorLab\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D28DBB4-29A2-4EF8-8054-F10F38F66EEE}|PlayWithStringVectorLab\\PlayWithStringVectorLab.vcxproj|solutionrelative:PlayWithStringVectorLab\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.txt",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\PlayWithStringVectorLab\\PlayWithStringVectorLab\\Library.txt",
+              "RelativeDocumentMoniker": "PlayWithStringVectorLab\\Library.txt",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\PlayWithStringVectorLab\\PlayWithStringVectorLab\\Library.txt*",
+              "RelativeToolTip": "PlayWithStringVectorLab\\Library.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-18T16:04:16.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\PlayWithStringVectorLab\\PlayWithStringVectorLab\\main.cpp",
+              "RelativeDocumentMoniker": "PlayWithStringVectorLab\\main.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\PlayWithStringVectorLab\\PlayWithStringVectorLab\\main.cpp",
+              "RelativeToolTip": "PlayWithStringVectorLab\\main.cpp",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T16:00:34.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

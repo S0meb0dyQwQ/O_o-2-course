@@ -6,13 +6,11 @@
 class String
 {
 private:
-	size_t length;
-	char* string;
+	size_t length{ 1 };
+	char* string= new char[length];
 public:
 	String operator + (const String&)const;
 	bool operator==(const String& other) const;
-	String& operator = (const String& other);
-	String& operator = (String&& other);
 	bool operator>(const String& other) const;
 	bool operator<(const String& other) const;
 	bool operator!=(const String& other) const;
@@ -40,12 +38,7 @@ public:
 	void insert(size_t pos, const String& str);
 	void replace(size_t pos,size_t count,const String& tmp);
 	char* c_str();
-	int stoi();
-	double stod();
-	friend std::istream& getline(std::istream&, String&);
-	bool isNumber()const;
 	size_t count(char ch) const;
-	String(String&&);
 	String();
 	String(char*, size_t);
 	String(const String&);

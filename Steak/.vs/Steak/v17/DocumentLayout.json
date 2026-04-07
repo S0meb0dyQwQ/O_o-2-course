@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\Steak\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37DC5664-158B-4FB6-95B3-C2ADBEE56299}|Steak\\Steak.vcxproj|C:\\Users\\Comp\\source\\repos\\Steak\\Steak\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37DC5664-158B-4FB6-95B3-C2ADBEE56299}|Steak\\Steak.vcxproj|solutionrelative:Steak\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37DC5664-158B-4FB6-95B3-C2ADBEE56299}|Steak\\Steak.vcxproj|C:\\Users\\Comp\\source\\repos\\Steak\\Steak\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{37DC5664-158B-4FB6-95B3-C2ADBEE56299}|Steak\\Steak.vcxproj|solutionrelative:Steak\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37DC5664-158B-4FB6-95B3-C2ADBEE56299}|Steak\\Steak.vcxproj|C:\\Users\\Comp\\source\\repos\\Steak\\Steak\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{37DC5664-158B-4FB6-95B3-C2ADBEE56299}|Steak\\Steak.vcxproj|solutionrelative:Steak\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37DC5664-158B-4FB6-95B3-C2ADBEE56299}|Steak\\Steak.vcxproj|C:\\Users\\Comp\\source\\repos\\Steak\\Steak\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{37DC5664-158B-4FB6-95B3-C2ADBEE56299}|Steak\\Steak.vcxproj|solutionrelative:Steak\\Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,23 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Base.h",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Steak\\Steak\\Base.h",
               "RelativeDocumentMoniker": "Steak\\Base.h",
               "ToolTip": "C:\\Users\\Comp\\source\\repos\\Steak\\Steak\\Base.h",
               "RelativeToolTip": "Steak\\Base.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-20T17:03:51.131Z"
+              "WhenOpened": "2025-10-20T17:03:51.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Base.cpp",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Steak\\Steak\\Base.cpp",
               "RelativeDocumentMoniker": "Steak\\Base.cpp",
@@ -50,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Steak\\Steak\\main.cpp",
               "RelativeDocumentMoniker": "Steak\\main.cpp",
